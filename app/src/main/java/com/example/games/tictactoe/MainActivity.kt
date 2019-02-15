@@ -1,10 +1,11 @@
-package com.example.games
+package com.example.games.tictactoe
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.Toast
+import com.example.games.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 
